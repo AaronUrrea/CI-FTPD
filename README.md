@@ -95,8 +95,6 @@ prog02-tftp-rrq.pcapng
 prog02-tftp-wrq.pcapng
 prog02-tftp-error.pcapng
 
-## Debugging
-
 ### gdb
 
 Debugging with gdb has a small challenge; we are forking. Usually, gdb follows the parent process after a fork, but we can change it by using `set follow-fork-mode child` or by attaching to the child PID after execution has started with `gdb -p [PID]`.
