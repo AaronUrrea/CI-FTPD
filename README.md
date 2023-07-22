@@ -1,4 +1,5 @@
-# cihttpd - Aaron Urrea
+## cihttpd - Aaron Urrea
+Course: COMP-429 Computer Networks
 Professor - Kevin Scrivnor
 
 ## Table of Contents
